@@ -12,7 +12,7 @@ Product info (category, sub-category)
 
 Shipping details etc.
 
-#### Libraries required
+#### Libraries required:
 import pandas as pd
 
 import plotly.express as px
